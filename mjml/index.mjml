@@ -49,7 +49,7 @@
     <mj-section background-color="#ffffff" padding="0 20px">
       <mj-column>
         <mj-text align="center" padding="0" font-size="26px" line-height="30px" font-weight="600" mj-class="+1T cR" text-transform="uppercase">Jeu Concours</mj-text>
-        <mj-text align="center" vertical-align="bottom" padding="0" mj-class="+2T cR">Photo de Noël</mj-text>
+        <mj-text align="center" vertical-align="bottom" padding="0" mj-class="+2T cR" letter-spacing="-1px">Photo <span style="font-size:70px">de</span> Noël</mj-text>
         <mj-social padding="0" icon-size="30px" mode="horizontal" mj-class="+1T cR" font-size="25px" line-height="25px" font-weight="700">
           <mj-social-element padding="5px" src="https://i.ibb.co/0KWZm40/let-Emailling-04.jpg">2024</mj-social-element>
         </mj-social>
@@ -88,7 +88,7 @@
           <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/8s2rNcx/Plan-de-travail-3chien3.png" alt="chien habillé en père Noël entrain de confectionner un bonhomme de neige"></mj-image>
         </mj-column>
         <mj-column width="20%" vertical-align="bottom">
-          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/b2gpvcc/pere-Noelchat4.png" alt="chat habillé en père Noël souhaitant la  bienvenue"></mj-image>
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/b2gpvcc/pere-Noelchat4.png" alt="chat habillé en père Noël souhaitant la bienvenue"></mj-image>
         </mj-column>
         <mj-column width="20%" vertical-align="bottom">
           <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/qDVcM9f/pere-Noelchien5.png" alt="chien habillé en père Noël apportant des cadeaux"></mj-image>
