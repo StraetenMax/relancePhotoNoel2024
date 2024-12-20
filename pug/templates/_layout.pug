@@ -1,0 +1,45 @@
+mjml
+    //- Head
+    mj-head
+        mj-title Jeu concours Photo Noël 2024
+        mj-raw.
+            <meta name='color-scheme' content='light'/>
+            <meta name='supported-color-schemes' content='light'/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+        mj-font(name="Outfit" href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap")/
+        mj-font(name="Berkshire Swash" href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap")/
+        mj-attributes
+            mj-all(font-family='Arial, Helvetica, sans-serif')/
+            //-Police Font
+            mj-class(name='+2T' font-family='Berkshire Swash, serif' font-size='80px' line-height="85px" font-weight="400" font-style='normal')
+            mj-class(name='+1T' font-family='Outfit, sans-serif' font-style='normal')
+            mj-class(name='0T' font-size="16px" line-height="20px" font-weight="400" font-style="normal")/
+            mj-class(name='-1T' font-size="12px" line-height="16px" font-weight="400" font-style="normal")/
+            mj-class(name='-2T' font-size="10px" line-height="14px" font-weight="400" font-style="normal")/
+            //-color
+            mj-class(name="cR" color="#c1272d")
+            mj-class(name="cT0" color="#333333")
+            mj-class(name="cT1+" color="#737373")
+        mj-breakpoint(width='480px')
+    //- Body
+    mj-body(background-color='#f2f2f2')
+        //- Header
+        block header
+            include ../includes/_header
+        //- Content
+        block content
+        //- footer Post
+        block footer
+            include ../includes/_footer
+        //- Farandole
+        block farandole
+            include ../includes/_farandole
+        mj-section
+            mj-column
+                mj-text(align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+") Si tu ne parviens pas à lire cet e-mail, clique #[a(style="color:#c1272d;font-weight:700;" href='{{ mirror }}') ici]
+                mj-text(align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+") Cet email a été envoyé à #[a(style="color:#737373;text-decoration:none" href='{{contact.EMAIL}}') {{contact.EMAIL}}], tu l'as reçu car tu suis la formation SUPVETO.
+                mj-text(align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+") #[a(style="color:#c1272d;font-weight:700;" href="{{ unsubscribe }}") Se désinscrire]
+                mj-text(align="center" mj-class="-2T cT1+") ©2024 supveto

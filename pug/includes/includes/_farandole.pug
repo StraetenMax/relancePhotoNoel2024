@@ -1,0 +1,28 @@
+-
+    const personasList = [
+        {
+            'image':"https://i.ibb.co/hC6yb0F/pere-Noelchien1.png",
+            'alt':"chien habillé en père Noël distribuant des cadeaux"
+        },
+        {
+            'image':'https://i.ibb.co/bvJXFBD/pere-Noelchat2.png',
+            'alt':'chat habillé en père Noël'
+        },
+        {
+            'image':"https://i.ibb.co/8s2rNcx/Plan-de-travail-3chien3.png",
+            'alt':"chien habillé en père Noël entrain de confectionner un bonhomme de neige"
+        },
+        {
+            'image':"https://i.ibb.co/b2gpvcc/pere-Noelchat4.png",
+            'alt':"chat habillé en père Noël souhaitant la  bienvenue"
+        },
+        {
+            'image':"https://i.ibb.co/qDVcM9f/pere-Noelchien5.png",
+            'alt':"chien habillé en père Noël apportant des cadeaux"
+        }
+    ]
+mj-section(background-color="#ffffff" padding-top="0")
+    mj-group   
+        each persona in personasList
+            mj-column(width="20%" vertical-align="bottom")
+                mj-image(padding="0" border="none" width="300px" src=persona.image alt=persona.alt )
