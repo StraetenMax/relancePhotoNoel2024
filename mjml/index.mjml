@@ -91,9 +91,9 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+">Si tu ne parviens pas à lire cet e-mail, clique <a style="color:#c1272d;font-weight:700;" href="{{ mirror }}">ici</a></mj-text>
+        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+">Si tu ne parviens pas à lire cet e-mail, clique <a style="color:#0d0d0d;font-weight:700;" href="{{ mirror }}">ici</a></mj-text>
         <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+">Cet email a été envoyé à <a style="color:#737373;text-decoration:none" href="{{contact.EMAIL}}">{{contact.EMAIL}}</a>, tu l'as reçu car tu suis la formation SUPVETO.</mj-text>
-        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+"><a style="color:#c1272d;font-weight:700;" href="{{ unsubscribe }}">Se désinscrire</a></mj-text>
+        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+"><a style="color:#0d0d0d;font-weight:700;" href="{{ unsubscribe }}">Se désinscrire</a></mj-text>
         <mj-text align="center" mj-class="-2T cT1+">©2024 supveto</mj-text>
       </mj-column>
     </mj-section>
