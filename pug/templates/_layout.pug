@@ -21,11 +21,23 @@ mjml
             mj-class(name='-2T' font-size="10px" line-height="14px" font-weight="400" font-style="normal")/
             //-color
             mj-class(name="cR" color="#c1272d")
+            mj-class(name="cB" color="#ffffff")
             mj-class(name="cT0" color="#333333")
             mj-class(name="cT1+" color="#737373")
         mj-breakpoint(width='480px')
     //- Body
     mj-body(background-color='#f2f2f2')
+        mj-section(background-color="#008653" padding="8px 20px")
+            mj-group  
+                mj-column
+                    mj-text(align='center' padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cB" text-transform="uppercase") cartes cadeaux
+                    mj-text(align='center' padding="0" font-size="18px" font-weight="700" line-height='22px' mj-class="+1T cB" text-transform="uppercase") à gagner
+                mj-column
+                    mj-text(align='center' padding="0" font-size="18px" font-weight="700" line-height='22px' mj-class="+1T cB" text-transform="uppercase") à envoyer
+                    mj-text(align='center' padding="0" font-size="18px" font-weight="700" line-height='22px' mj-class="+1T cB" text-transform="uppercase") avant le 05 janvier
+        //- Farandole
+        block farandole
+            include ../includes/_farandole
         //- Header
         block header
             include ../includes/_header
@@ -34,9 +46,6 @@ mjml
         //- footer Post
         block footer
             include ../includes/_footer
-        //- Farandole
-        block farandole
-            include ../includes/_farandole
         mj-section
             mj-column
                 mj-text(align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+") Si tu ne parviens pas à lire cet e-mail, clique #[a(style="color:#c1272d;font-weight:700;" href='{{ mirror }}') ici]

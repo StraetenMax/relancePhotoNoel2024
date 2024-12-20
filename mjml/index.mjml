@@ -20,31 +20,40 @@
       <mj-class name="-1T" font-size="12px" line-height="16px" font-weight="400" font-style="normal"/>
       <mj-class name="-2T" font-size="10px" line-height="14px" font-weight="400" font-style="normal"/>
       <mj-class name="cR" color="#c1272d"></mj-class>
+      <mj-class name="cB" color="#ffffff"></mj-class>
       <mj-class name="cT0" color="#333333"></mj-class>
       <mj-class name="cT1+" color="#737373"></mj-class>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
   <mj-body background-color="#f2f2f2">
-    <mj-section background-color="#ffffff" padding="0">
-      <mj-column>
-        <mj-image padding="0" border="none" width="600px" src="https://i.ibb.co/sJktsTd/front2024.png" alt="chat et chien habillés en père Noël sur fond vert d'étoiles des neiges"></mj-image>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding="0 20px">
-      <mj-group width="100%">  
+    <mj-section background-color="#008653" padding="8px 20px">
+      <mj-group> 
         <mj-column>
-          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cR" text-transform="uppercase">cartes cadeaux</mj-text>
-          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cR" text-transform="uppercase">à gagner</mj-text>
+          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cB" text-transform="uppercase">cartes cadeaux</mj-text>
+          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cB" text-transform="uppercase">à gagner</mj-text>
         </mj-column>
         <mj-column>
-          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cR" text-transform="uppercase">à envoyer</mj-text>
-          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cR" text-transform="uppercase">avant le 05 janvier</mj-text>
+          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cB" text-transform="uppercase">à envoyer</mj-text>
+          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cB" text-transform="uppercase">avant le 05 janvier</mj-text>
         </mj-column>
       </mj-group>
-      <mj-column width="100%">
-        <mj-spacer height="40px"></mj-spacer>
-      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-group>  
+        <mj-column width="25%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/hC6yb0F/pere-Noelchien1.png" alt="chien habillé en père Noël distribuant des cadeaux"></mj-image>
+        </mj-column>
+        <mj-column width="25%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/bvJXFBD/pere-Noelchat2.png" alt="chat habillé en père Noël"></mj-image>
+        </mj-column>
+        <mj-column width="25%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/b2gpvcc/pere-Noelchat4.png" alt="chat habillé en père Noël souhaitant la bienvenue"></mj-image>
+        </mj-column>
+        <mj-column width="25%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/qDVcM9f/pere-Noelchien5.png" alt="chien habillé en père Noël apportant des cadeaux"></mj-image>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0 20px">
       <mj-column>
@@ -75,25 +84,6 @@
           <mj-social-element src="https://i.ibb.co/VLhFD7w/Instagram122024.png" href="https://www.instagram.com/supveto.france/" alt="logo instagram"></mj-social-element>
         </mj-social>
       </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0">
-      <mj-group>  
-        <mj-column width="20%" vertical-align="bottom">
-          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/hC6yb0F/pere-Noelchien1.png" alt="chien habillé en père Noël distribuant des cadeaux"></mj-image>
-        </mj-column>
-        <mj-column width="20%" vertical-align="bottom">
-          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/bvJXFBD/pere-Noelchat2.png" alt="chat habillé en père Noël"></mj-image>
-        </mj-column>
-        <mj-column width="20%" vertical-align="bottom">
-          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/8s2rNcx/Plan-de-travail-3chien3.png" alt="chien habillé en père Noël entrain de confectionner un bonhomme de neige"></mj-image>
-        </mj-column>
-        <mj-column width="20%" vertical-align="bottom">
-          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/b2gpvcc/pere-Noelchat4.png" alt="chat habillé en père Noël souhaitant la bienvenue"></mj-image>
-        </mj-column>
-        <mj-column width="20%" vertical-align="bottom">
-          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/qDVcM9f/pere-Noelchien5.png" alt="chien habillé en père Noël apportant des cadeaux"></mj-image>
-        </mj-column>
-      </mj-group>
     </mj-section>
     <mj-section>
       <mj-column>
