@@ -1,0 +1,108 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Relance Jeu concours Photo Noël 2024</mj-title>
+    <mj-raw>
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-font name="Outfit" href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&amp;display=swap"/>
+    <mj-font name="Berkshire Swash" href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&amp;display=swap"/>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif"/>
+      <mj-class name="+2T" font-family="Berkshire Swash, serif" font-size="80px" line-height="85px" font-weight="400" font-style="normal"></mj-class>
+      <mj-class name="+1T" font-family="Outfit, sans-serif" font-style="normal"></mj-class>
+      <mj-class name="0T" font-size="16px" line-height="20px" font-weight="400" font-style="normal"/>
+      <mj-class name="-1T" font-size="12px" line-height="16px" font-weight="400" font-style="normal"/>
+      <mj-class name="-2T" font-size="10px" line-height="14px" font-weight="400" font-style="normal"/>
+      <mj-class name="cR" color="#c1272d"></mj-class>
+      <mj-class name="cT0" color="#333333"></mj-class>
+      <mj-class name="cT1+" color="#737373"></mj-class>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#f2f2f2">
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column>
+        <mj-image padding="0" border="none" width="600px" src="https://i.ibb.co/sJktsTd/front2024.png" alt="chat et chien habillés en père Noël sur fond vert d'étoiles des neiges"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 20px">
+      <mj-group width="100%">  
+        <mj-column>
+          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cR" text-transform="uppercase">cartes cadeaux</mj-text>
+          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cR" text-transform="uppercase">à gagner</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cR" text-transform="uppercase">à envoyer</mj-text>
+          <mj-text align="center" padding="0" font-size="18px" font-weight="700" line-height="22px" mj-class="+1T cR" text-transform="uppercase">avant le 05 janvier</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-column width="100%">
+        <mj-spacer height="40px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0 20px">
+      <mj-column>
+        <mj-text align="center" padding="0" font-size="26px" line-height="30px" font-weight="600" mj-class="+1T cR" text-transform="uppercase">Jeu Concours</mj-text>
+        <mj-text align="center" vertical-align="bottom" padding="0" mj-class="+2T cR">Photo de Noël</mj-text>
+        <mj-social padding="0" icon-size="30px" mode="horizontal" mj-class="+1T cR" font-size="25px" line-height="25px" font-weight="700">
+          <mj-social-element padding="5px" src="https://i.ibb.co/0KWZm40/let-Emailling-04.jpg">2024</mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column width="80%">
+        <mj-text padding="5px 0" mj-class="0T cT0"><span style="color:#0d0d0d;font-weight:700;">Jeu concours</span> : une <span style="color:#c1272d;font-weight:700;">PHOTO DE NOËL</span> pour faire de ton animal favori le roi de la fête !!!</mj-text>
+        <mj-text padding="5px 0" mj-class="0T cT0">A déposer sous le sapin pour amuser mamy, divertir les copains... mais surtout gagner le <span style="color:#0d0d0d;font-weight:700;">jeu concours</span> organisé par <span style="color:#0d0d0d;font-weight:700;">SupVéto</span>.</mj-text>
+        <mj-text padding="5px 0" mj-class="0T cT0">Quelques consignes à respecter cependant : le choix d'un <span style="color:#0d0d0d;font-weight:700;">déguisement festif</span>, ta présence ou pas sur le cliché, de l'<span style="color:#0d0d0d;font-weight:700;">inventivité</span> en veux-tu en voilà et, plus que tout, de l'<span style="color:#0d0d0d;font-weight:700;">humour</span>, encore de l'<span style="color:#0d0d0d;font-weight:700;">humour</span> et toujours de l'<span style="color:#0d0d0d;font-weight:700;">humour</span>.</mj-text>
+        <mj-text padding="5px 0" mj-class="0T cT0">Mais attention le « vénérable vieillard » chargé de distribuer les cadeaux et de sélectionner la meilleure photo n'apprécierait pas que tu ne respectes pas ton petit compagnon... et nous non plus à <span style="color:#0d0d0d;font-weight:700;">SupVéto</span>.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" padding-left="0" padding-right="0" mj-class="0T cT0">Alors <span style="color:#0d0d0d;font-weight:700">{{contact.PRENOM}}</span> dans le respect des valeurs de notre formation, active ton imagination, réalise la <span style="color:#0d0d0d;font-weight:700;">photo de l'année</span> et envoie-la par mail (1 photo par candidat) à :</mj-text>
+        <mj-text padding="0" mj-class="0T"><a href="mailto:concours.national.noel@supveto.com" style="color:#c1272d;font-weight:700">concours.national.noel@supveto.com</a> avec ton nom, prénom et l'école dont tu dépends (obligatoire).</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+        <mj-image padding="0" border="none" width="220px" src="https://i.ibb.co/Jsh5VZ7/let-Emailling-08.jpg" alt="logo supveto"> </mj-image>
+        <mj-text align="center" padding-top="5px" padding-bottom="0" mj-class="-1T"><a style="color:#333333;text-decoration:none;" href="https://www.google.com/maps/place/TOURCOING+17+RUE+DES+URSULINES">17 rue des Ursulines - 59200 tourcoing</a></mj-text>
+        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-1T"><a style="color:#333333;text-decoration:none;" href="mailto:contact@supveto.com">contact@supveto.com</a></mj-text>
+        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-1T"><a style="color:#333333;text-decoration:none;" href="tel:0320700606">03.20.70.06.06</a></mj-text>
+        <mj-social icon-size="30px" mode="horizontal">
+          <mj-social-element src="https://i.ibb.co/8dMHpfX/Facebook122024.png" href="https://www.facebook.com/supvetonational/" alt="logo facebook"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/VLhFD7w/Instagram122024.png" href="https://www.instagram.com/supveto.france/" alt="logo instagram"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-group>  
+        <mj-column width="20%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/hC6yb0F/pere-Noelchien1.png" alt="chien habillé en père Noël distribuant des cadeaux"></mj-image>
+        </mj-column>
+        <mj-column width="20%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/bvJXFBD/pere-Noelchat2.png" alt="chat habillé en père Noël"></mj-image>
+        </mj-column>
+        <mj-column width="20%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/8s2rNcx/Plan-de-travail-3chien3.png" alt="chien habillé en père Noël entrain de confectionner un bonhomme de neige"></mj-image>
+        </mj-column>
+        <mj-column width="20%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/b2gpvcc/pere-Noelchat4.png" alt="chat habillé en père Noël souhaitant la  bienvenue"></mj-image>
+        </mj-column>
+        <mj-column width="20%" vertical-align="bottom">
+          <mj-image padding="0" border="none" width="300px" src="https://i.ibb.co/qDVcM9f/pere-Noelchien5.png" alt="chien habillé en père Noël apportant des cadeaux"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+">Si tu ne parviens pas à lire cet e-mail, clique <a style="color:#c1272d;font-weight:700;" href="{{ mirror }}">ici</a></mj-text>
+        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+">Cet email a été envoyé à <a style="color:#737373;text-decoration:none" href="{{contact.EMAIL}}">{{contact.EMAIL}}</a>, tu l'as reçu car tu suis la formation SUPVETO.</mj-text>
+        <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-2T cT1+"><a style="color:#c1272d;font-weight:700;" href="{{ unsubscribe }}">Se désinscrire</a></mj-text>
+        <mj-text align="center" mj-class="-2T cT1+">©2024 supveto</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
