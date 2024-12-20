@@ -73,8 +73,12 @@
         <mj-text padding="0" mj-class="0T"><a href="mailto:concours.national.noel@supveto.com" style="color:#c1272d;font-weight:700">concours.national.noel@supveto.com</a> avec ton nom, prénom et l'école dont tu dépends <span style="font-style:italic;">(obligatoire)</span>.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px">
-      <mj-column>
+    <mj-section background-color="#ffffff" padding-top="0px" padding-left="20px" padding-right="20px">
+      <mj-column width="100%">
+        <mj-image padding="0" border="none" width="150px" src="https://i.ibb.co/8s2rNcx/Plan-de-travail-3chien3.png" alt="chien habillé en père Noël entrain de confectionner un bonhomme de neige"></mj-image>
+        <mj-spacer height="20px"></mj-spacer>
+      </mj-column>
+      <mj-column width="100%">
         <mj-image padding="0" border="none" width="220px" src="https://i.ibb.co/Jsh5VZ7/let-Emailling-08.jpg" alt="logo supveto"> </mj-image>
         <mj-text align="center" padding-top="5px" padding-bottom="0" mj-class="-1T"><a style="color:#333333;text-decoration:none;" href="https://www.google.com/maps/place/TOURCOING+17+RUE+DES+URSULINES">17 rue des Ursulines - 59200 tourcoing</a></mj-text>
         <mj-text align="center" padding-top="0" padding-bottom="0" mj-class="-1T"><a style="color:#333333;text-decoration:none;" href="mailto:contact@supveto.com">contact@supveto.com</a></mj-text>
